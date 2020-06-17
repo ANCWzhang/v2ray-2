@@ -4,4 +4,4 @@
 
 使用方法和官方的脚本一样
 
-bash <(curl -sl6 scaleya.com/shell/v2ray.sh)
+bash <(curl -sL6 scaleya.com/shell/v2ray.sh)
